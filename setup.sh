@@ -7,6 +7,6 @@ apt install mpv
 
 echo ~/miner-mp3/startminer > ~/.bashrc
 
-Echo "Relogin"
+echo "Relogin"
 
-kilall com.termux
+killall com.termux
